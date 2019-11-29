@@ -1,0 +1,20 @@
+C:\Users\Beto\source\repos\TCC\bin\Debug\TCC.exe.config
+C:\Users\Beto\source\repos\TCC\bin\Debug\TCC.exe
+C:\Users\Beto\source\repos\TCC\bin\Debug\TCC.pdb
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.exe
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.pdb
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\TCC\obj\Debug\TCC.FormularioLogin.resources
+C:\Users\SLG\Desktop\03 - TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\SLG\Desktop\03 - TCC\TCC\bin\Debug\TCC.exe
+C:\Users\SLG\Desktop\03 - TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.FormularioLogin.resources
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.exe
+C:\Users\SLG\Desktop\03 - TCC\TCC\obj\Debug\TCC.pdb
